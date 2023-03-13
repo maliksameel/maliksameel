@@ -1,5 +1,11 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E16AQHJ0L6ytkQSBg/profile-displaybackgroundimage-shrink_200_800/0/1582175527014?e=2147483647&v=beta&t=A-YGAoLBQQyLPjo_RDfezF_qT2UUCM7CZr_n3b-BfVo)](https://www.linkedin.com/in/sameelmalik)
-### Hi there 👋
+### Hi 👋 - I'm Sameel.
+
+- 🔧 Mainly working on the next generation of personalization
+- 🤖 Fascinated with robots
+- 🌱 I’m currently learning R
+
+[![Sameel's github stats](https://github-readme-stats.vercel.app/api?username=maliksameel&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **maliksameel/maliksameel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
